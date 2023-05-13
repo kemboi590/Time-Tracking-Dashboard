@@ -1,5 +1,5 @@
 # Time-Tracking-Management-System
 
-![Registration-Management-System](./TimeTracking.png)
+![Time-Tracking-Management-System](images/TimeTracking.png)
 
 
